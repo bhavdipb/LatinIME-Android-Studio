@@ -14,7 +14,7 @@ Building host tools (used to generate dictionaries) still requires some more wor
 
 1. Checkout this build configuration:
 
-        git clone https://github.com/iwo/LatinIME-Android-Studio.git .
+        git clone https://github.com/iwo/LatinIME-Android-Studio.git
 1. Checkout LatinIME sources to `LatinIME` subdirectory:
 
         git clone https://github.com/CyanogenMod/android_packages_inputmethods_LatinIME.git LatinIME
